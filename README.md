@@ -1,6 +1,6 @@
 # [SDF02] Challenge: CS Cat HTML Portfolio 😼
 
-[LINK TO MY SITE](https://lu-ani.github.io/LUDSOK25529_fto2506_a_Ludwe-Sokani_SDF02/)
+[LINK TO MY SITE](https://lu-ani.github.io/LUDSOK25529_FTO2506_GroupA_Ludwe-Sokani_SDF02/)
 
 Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
 
